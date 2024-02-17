@@ -1,4 +1,4 @@
 # Java-DSA
 This is full java DSA.
 <br>
-Autor - Deepak Lokhande
+Autor - Deepak Lokhande(dsa)
